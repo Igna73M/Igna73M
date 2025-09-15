@@ -17,6 +17,17 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ### 🌱 Currently Learning
 I’m always seeking to improve, currently diving deeper into advanced MERN practices, cloud deployment, and the latest in cybersecurity.
 
+---
+
+
+### ⚙️ &nbsp;GitHub Analytics
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Igna73M&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Igna73M&show_icons=true&locale=en&theme=angolia&include_all_commits=true&count_private=true"/></p>
+-->
+---
+
 ### 📫 Let's Connect!
 Feel free to explore my projects below or reach out—I'm always open to collaboration, learning, and connecting with fellow developers!
 
