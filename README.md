@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ignace!
 
-I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js), with a strong foundation in cybersecurity and a love for continuous learning. My journey in tech began with HTML, CSS, and JavaScript, and has since expanded to include modern frameworks and tools such as React, TailwindCSS, Bootstrap, TypeScript, and Python. I’m also skilled in both SQL (MySQL) and NoSQL (MongoDB) databases, and I enjoy working in Linux environments.
+I'm a passionate Full-Stack Developer specializing in the MERN/PERN stack (MongoDB/PostgreSQL, Express, React, Node.js), with a strong foundation in cybersecurity and a passion for continuous learning. My journey in tech began with HTML, CSS, and JavaScript, and has since expanded to include modern frameworks and tools such as React, TailwindCSS, Bootstrap, TypeScript, and Python. I’m also skilled in both SQL (MySQL, PostgreSQL) and NoSQL (MongoDB) databases, and I enjoy working in Linux environments.
 
 ### 🚀 What I Do
 - **Full Stack Web Development:** Building scalable, performant web applications with intuitive user interfaces and robust backends.
@@ -10,12 +10,12 @@ I'm a passionate Full Stack Developer specializing in the MERN stack (MongoDB, E
 ### 🛠️ Skills
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
 - **Frameworks & Libraries:** React, Express, Node.js, TailwindCSS, Bootstrap
-- **Databases:** MongoDB, MySQL
+- **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools & Platforms:** Linux, Git, GitHub
 - **Other:** Cybersecurity fundamentals, REST APIs, Responsive Design
 
 ### 🌱 Currently Learning
-I’m always seeking to improve, currently diving deeper into advanced MERN practices, cloud deployment, and the latest in cybersecurity.
+I’m always seeking to improve, currently diving deeper into advanced MERN/PERN practices, cloud deployment, and the latest in cybersecurity.
 
 ---
 
