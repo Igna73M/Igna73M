@@ -36,6 +36,12 @@ I’m always seeking to improve, currently diving deeper into advanced MERN/PERN
 
 ---
 
+<!-- 
+![GitHub Snake Animation](https://raw.githubusercontent.com/Igna73M/Igna73M/output/github-contribution-grid-snake.svg)
+-->
+
+![GitHub Snake Animation - Dark](https://raw.githubusercontent.com/Igna73M/Igna73M/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ### 📫 Let's Connect!
