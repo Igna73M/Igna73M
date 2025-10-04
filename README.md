@@ -28,6 +28,16 @@ I’m always seeking to improve, currently diving deeper into advanced MERN/PERN
 -->
 ---
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Igna73M&theme=tokyonight" />
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igna73M&layout=compact&theme=tokyonight" />
+
+---
+
+---
+
 ### 📫 Let's Connect!
 Feel free to explore my projects below or reach out—I'm always open to collaboration, learning, and connecting with fellow developers!
 
